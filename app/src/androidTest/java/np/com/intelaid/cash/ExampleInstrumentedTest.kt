@@ -1,4 +1,4 @@
-package np.com.rabingaire.cash
+package np.com.intelaid.cash
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

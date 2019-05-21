@@ -1,4 +1,4 @@
-package np.com.rabingaire.cash
+package np.com.intelaid.cash
 import android.content.Context
 import android.media.MediaPlayer
 

@@ -1,4 +1,4 @@
-package np.com.rabingaire.cash
+package np.com.intelaid.cash
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     }
 
     companion object {
-        private const val MODEL_PATH = "cash.tflite"
+        private const val MODEL_PATH = "Cash.tflite"
         private const val LABEL_PATH = "labels.txt"
         private const val INPUT_SIZE = 224
     }
